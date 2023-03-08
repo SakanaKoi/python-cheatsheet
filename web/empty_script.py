@@ -4,6 +4,7 @@
 # How about:
 #From branch2
 
+#from branch1
 from math import sin, pi
 
 LEN = 40
